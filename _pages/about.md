@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "BAORUI overview:"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Security, stability, innovation—the leader in the global encryption market.
+In order to ensure that investors, partners and the public have a comprehensive and in-depth understanding of BAORUI Exchange, this article introduces BAORUI's business model, technical foundation, security strategy and development vision in detail from multiple perspectives. In this white paper, you'll explore in depth:
+
+BAORUI's market analysis and positioning clarify our role in the global cryptocurrency market.
+A detailed description of the business and ecological sectors shows how BAORUI meets customer needs through a variety of services.
+BAORUI's technology selection and advantages explain how we ensure transaction speed and system stability.
+Our security policy explains how to ensure the absolute security of user assets.
+The legal and compliance section shows BAORUI's strict compliance with global regulations.
+Finally, our team background, partners and future prospects provide readers with a full picture of BAORUI.
 
 A data-driven personal website
 ======
